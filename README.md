@@ -7,6 +7,7 @@ bash ce-toolchain_install.sh
 ```
 
 **NOTE: Before running this, you should have Wine installed in order for the toolchain to actually work!**
+
 **NOTE: This script assumes that you are installing the toolchain in the home directory.**
 
 You should not need any admin permissions to install the toolchain. 
